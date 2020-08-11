@@ -87,6 +87,7 @@ body{
       .contour_slope img{
           position:absolute;
           top:720px;
+          margin-left:0px;
           width:60%;
       }
   }
